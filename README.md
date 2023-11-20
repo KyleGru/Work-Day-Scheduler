@@ -19,7 +19,8 @@ https://api.jquery.com/addClass/
 https://api.jquery.com/removeClass/
 https://api.jquery.com/ready/
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
 ## Links
-
-
+https://github.com/KyleGru/Work-Day-Scheduler
+https://kylegru.github.io/Work-Day-Scheduler/
 # Work-Day-Scheduler
